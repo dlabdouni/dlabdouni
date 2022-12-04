@@ -1,7 +1,6 @@
 ### Hi there 👋
+![image](https://www.linkedin.com/in/djamel-labdouni-024636251/)
 
-<!--
-**dlabdouni/dlabdouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
