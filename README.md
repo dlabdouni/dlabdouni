@@ -8,4 +8,5 @@
 
 #### 📧 you can reach me at d.labdouni@gmail.com
 
-#### Or useful link: [Linkedin](https://www.linkedin.com/in/djamel-labdouni-024636251/)
+#### ![images Linkedin](https://github.com/user-attachments/assets/c220e131-adee-4e56-a8b6-c65b90903a01)
+   Or useful link: [Linkedin](https://www.linkedin.com/in/djamel-labdouni-024636251/)
